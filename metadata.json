@@ -1,0 +1,6 @@
+{
+  "name": "Criminal Network Analysis System",
+  "description": "Government-grade secure login portal for AI-Powered Criminal Network Analysis System for law enforcement and intelligence personnel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
